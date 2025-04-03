@@ -1,0 +1,25 @@
+{
+  "responses": [
+    {
+      "keywords": ["hello", "hi", "hey", "helo", "hallo", "heya"],
+      "response": "Hello! How can I help you today?"
+    },
+    {
+      "keywords": ["how are you", "how're you", "how r u", "howdy", "hows it going", "how are things"],
+      "response": "I'm doing great, thanks for asking! How about you?"
+    },
+    {
+      "keywords": ["bye", "goodbye", "see you", "cya", "farewell", "good bye", "byebye"],
+      "response": "Goodbye! Have a great day!"
+    },
+    {
+      "keywords": ["help", "support", "assist", "halp", "assistance", "guide"],
+      "response": "I'm here to help! Feel free to ask any questions."
+    },
+    {
+      "keywords": ["weather", "temperature", "forecast", "rain", "sunny", "wheather"],
+      "response": "I'm sorry, I don't have access to real-time weather information."
+    }
+  ],
+  "defaultResponse": "I'm not sure how to respond to that. Could you please rephrase or ask something else?"
+}
